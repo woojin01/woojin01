@@ -12,7 +12,7 @@
 <div align=center>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=woojin01&theme=swift)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin01&layout=compact&theme=swift)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin01&layout=compact&theme=swift) -->
 
 </div>
 
