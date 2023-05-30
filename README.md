@@ -3,10 +3,12 @@
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojin01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=krang)](https://solved.ac/krang)
 	
 <!--뱃지들-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rihoCode@gmail.com)](mailto:rihoCode@gmail.com) 
-[![Googleplay Badge](https://img.shields.io/badge/Pomo(포모도로)-fb1327?style=flat-square&logo=GooglePlay&logoColor=white&link=https://play.google.com/store/apps/details?id=com.tistory.toonflix2)](https://play.google.com/store/apps/details?id=com.tistory.toonflix2) 
+[![Googleplay Badge](https://img.shields.io/badge/Pomo(포모도로)-fb1327?style=flat-square&logo=GooglePlay&logoColor=white&link=https://play.google.com/store/apps/details?id=com.tistory.toonflix2)](https://play.google.com/store/apps/details?id=com.tistory.toonflix2)
+[![Googleplay Badge](https://img.shields.io/badge/Pinky-86BABF?style=flat-square&logo=GooglePlay&logoColor=white&link=https://play.google.com/store/apps/details?id=com.kw.pinky)](https://play.google.com/store/apps/details?id=com.kw.pinky) 
 
 </div>
 <div align=center>
